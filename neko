@@ -1,0 +1,33 @@
+{
+  "title": "Shiro Kuro Neko",
+  "description": "a very short twitter short by @yukkieeeeeen",
+  "artist": "Kusaka-shi",
+  "author": "Kusaka-shi",
+  "cover": "https://cdn.discordapp.com/attachments/642923679713460234/840166267360116816/0-2.png",
+  "chapters": {
+    "0": {
+      "title": "The Black and White Cats That Live at My House",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/Vc02gft/"
+      },
+      "last_updated": "1620234000"
+    },
+    "1": {
+      "title": "Okay, I'm Trying to Work Here",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/IWX0526/"
+      },
+      "last_updated": "1620234000"
+    },
+    "2": {
+      "title": "I'm Home",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/zSPu4yz/"
+      },
+      "last_updated": "1620320400"
+    }
+  }
+}
